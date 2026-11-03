@@ -11,6 +11,7 @@ DATA FORMAT REQUIRED
 - Each row should represent an individual Raman/FTIR spectrum.
 - The first row must contain the wavenumber values.
 - The first column of each row (i.e., the first column of the file) must contain the class label for the corresponding spectrum.
+- For group isolation in train/test, put ID on the first column.
 
 Make sure your file follows this format to ensure proper functioning of the script.
 
