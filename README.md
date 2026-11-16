@@ -24,6 +24,8 @@ You are free to use, modify, and distribute this code, as long as proper credit 
 
 For full license details, refer to the LICENSE file.
 
+Cite: Anjos, V. P., & Zezell, D. M. (2026). ViniciusAnjos96/VibrationalSpectra-DataAnalysis: Vibrational Spectroscopy Data Analysis (Version v1.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.24293827
+
 ========
 RESEARCH BACKGROUND
 ========
