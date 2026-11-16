@@ -36,6 +36,11 @@ PhD Student - Vinicius Pereira dos Anjos,
 PhD Advisor - Prof. Dr. Denise Maria Zezell
 
 Learn more about the lab: https://biophotonics.my.canva.site/
+
+========
+SUPPORT
+========
+This work was supported by CNPq (INCT-INTERAS 406761/2022-1; INCT INFO 409174/2024-6; Sisfoton 440228/2021-2; PQ 3134/2026-0;), FAPESP (2020/07065-4; 2025/03135-1), and CAPES (finance code 001). 
 """
 
 
